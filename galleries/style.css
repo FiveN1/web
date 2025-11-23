@@ -134,7 +134,7 @@ mark {
   white-space: nowrap;
   overflow: hidden;
   display: inline-block;
-  animation: marquee 15s linear infinite;
+  animation: marquee 30s linear infinite;
 }
 
 .marquee p {
@@ -215,8 +215,8 @@ body {
     width: auto;
     height: auto;
 
-    margin-bottom: 32px;
-    box-shadow: 4px 8px 16px rgba(0, 0, 0, 0.5);
+    padding-bottom: 32px;
+    
 }
 
 .painting_image {
@@ -225,6 +225,12 @@ body {
 
     /* to remove window streaching */
     object-fit: cover;
+
+    box-shadow: 4px 8px 16px rgba(0, 0, 0, 0.5);
+
+    outline-style: solid;
+    outline-width: 4px;
+    outline-color: rgb(0, 0, 0, 0.5);
 }
 
 .painting_about {
@@ -235,7 +241,9 @@ body {
     
     /*margin-bottom: 32px;*/
 
-    background-color: black; /*var(--secondary-color)*/
+    padding-left: 8px;
+
+    /*background-color: black;*/ /*var(--secondary-color)*/
 }
 
 
