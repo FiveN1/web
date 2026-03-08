@@ -7,8 +7,8 @@
     <title>SDF Frcatal Demo</title>
 </head>
 
-<body>
-    <canvas id="canvas" oncontextmenu="event.preventDefault()"></canvas>
+<body style="margin: 0px; overflow: hidden;">
+    <canvas id="canvas" oncontextmenu="event.preventDefault()" style="height: 100vh; width: 100vw;"></canvas>
     <script type='text/javascript'>
         var Module = {
             canvas: (function() { return document.getElementById('canvas'); })()
