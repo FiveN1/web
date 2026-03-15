@@ -4164,6 +4164,7 @@ var stringToUTF8Array = (str, heap, outIdx, maxBytesToWrite) => {
       return 0;
     };
 
+
   var _emscripten_performance_now = () => performance.now();
 
   var wasmTableMirror = [];
@@ -7862,6 +7863,8 @@ var wasmImports = {
   emscripten_get_device_pixel_ratio: _emscripten_get_device_pixel_ratio,
   /** @export */
   emscripten_get_element_css_size: _emscripten_get_element_css_size,
+  /** @export */
+  emscripten_get_now: _emscripten_get_now,
   /** @export */
   emscripten_performance_now: _emscripten_performance_now,
   /** @export */
