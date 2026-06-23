@@ -24,7 +24,7 @@
                 <p1>Here is an image for viewing pleasure.</p1>
                 </div>
 
-                <div id="blog" class="column">
+                <div id="blogs" class="column">
                 <h2>Blogs</h2>
                 <hr>
 
@@ -34,7 +34,7 @@
                 </p>
                 <ul>
                     <li>
-                        <a href="/blog">Blogs</a>
+                        <a href="./blog">Blogs</a>
                     </li>
                 </ul>
                 </div>
@@ -100,7 +100,7 @@
             <hr>
             {{ range where .Site.RegularPages "Type" "web_demo"}}
             <a href="{{ .RelPermalink }}" target="_blank">
-                <img src="/img/{{ .Params.icon_name }}" alt="icon.png" class="webd_icon"> 
+                <img src="/web/img/{{ .Params.icon_name }}" alt="icon.png" class="webd_icon"> 
             </a>
             {{ end }}
 

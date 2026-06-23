@@ -10,7 +10,7 @@
 	<link rel="stylesheet" href="{{ "css/style.css" | relURL }}" type="text/css" media="all" />
 	<link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}" type="text/css" media="all" />
 
-	<link rel="icon" type="image/x-icon" href="/img/coolpfp.png">
+	<link rel="icon" type="image/x-icon" href="/web/img/coolpfp.png">
 
 	{{ with .OutputFormats.Get "rss" -}}
 		{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
@@ -24,7 +24,7 @@
 
 <canvas id="canvas" oncontextmenu="event.preventDefault()" style="height: 100vh; width: 100vw;"></canvas>
     <div id="web_demo_links" style="position: absolute; z-index: 1; bottom: 8px; right: 8px;">
-        <a class="text" href="/">home</a>
+        <a class="text" href="/web/">home</a>
         <a>|</a>
         <a class="text" href="{{ .Params.source_link }}" target="_blank">source</a>
     </div>

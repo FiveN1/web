@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Web_demos on tomasverheyen</title>
-		<link>http://localhost:1313/web_demos/</link>
+		<link>http://localhost:1313/web/web_demos/</link>
 		<description>Recent content in Web_demos on tomasverheyen</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0200</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/web_demos/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/web/web_demos/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>fractal demo!</title>
-				<link>http://localhost:1313/web_demos/fractal_demo/fractal_demo/</link>
+				<link>http://localhost:1313/web/web_demos/fractal_demo/fractal_demo/</link>
 				<pubDate>Mon, 22 Jun 2026 00:00:00 +0200</pubDate>
-				<guid>http://localhost:1313/web_demos/fractal_demo/fractal_demo/</guid>
+				<guid>http://localhost:1313/web/web_demos/fractal_demo/fractal_demo/</guid>
 				<description></description>
 			</item>
 	</channel>

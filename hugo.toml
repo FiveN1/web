@@ -4,7 +4,7 @@ title = 'tomasverheyen'
 
 [menu]
   [[menu.main]]
-    identifier = "blogs"
+    identifier = "blog"
     name = "Blogs"
     url = "/blog"
     weight = 10

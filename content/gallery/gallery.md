@@ -12,7 +12,7 @@ If you wish to use any of these images in other media, posters or games, please 
 
 ---
 
-[![img](/gallery/2026_sunflowers.png)](/gallery/2026_sunflowers.png)
+[![img](/web/gallery/2026_sunflowers.png)](/web/gallery/2026_sunflowers.png)
 ## Sunflowers (June 16, 2026)
 This practice was done in an afternoon, withnin ~4 hours.
 
@@ -20,7 +20,7 @@ First time using non-default Krita brushes, and wow what a diffrence can brushes
 
 ---
 
-[![img](/gallery/2026_vestibule_jam.png)](/gallery/2026_vestibule_jam.png)
+[![img](/web/gallery/2026_vestibule_jam.png)](/web/gallery/2026_vestibule_jam.png)
 ## Vestibule mini art jam submission (June 13, 2026)
 My submission for the Vestibule mini art jam (June 11-14, 2026).
 Had to rely on my imagination on this piece, which is not something that I usually do, I usually draw from reference in this 'printer-style' where I draw exactly what I see. Here on the other hand I've had to look on some 'not perfect' references that matched what I had in my imagination.
@@ -30,7 +30,7 @@ In the end it was quite fun, since I had to really think how the light interacts
 ---
 
 
-[![img](/gallery/150526_angel.png)](/gallery/150526_angel.png)
+[![img](/web/gallery/150526_angel.png)](/web/gallery/150526_angel.png)
 ## Angel with a spear (May 15, 2026)
 At first this was just a recreational light and shadow practice, but later turned into a finished piece.
 Done within ~10 hours over a couple of days.
@@ -40,14 +40,14 @@ I must say that i got a bit inspiered by Christopher Zetterstrand's paintings wi
 
 ---
 
-[![img](/gallery/2026_krajina_practice.png)](/gallery/2026_krajina_practice.png)
+[![img](/web/gallery/2026_krajina_practice.png)](/web/gallery/2026_krajina_practice.png)
 ## Scenery practice (June 4, 2026)
 
 Color practice.
 
 ---
 
-[![img](/gallery/251225_on_watch.png)](/gallery/251225_on_watch.png)
+[![img](/web/gallery/251225_on_watch.png)](/web/gallery/251225_on_watch.png)
 ## On watch (December 25, 2025)
 
 Tried some new coloring method, with a color layer on a grayscale base.
@@ -55,7 +55,7 @@ I don't think it looks bad but i probably wouldnt use this method in a future.
 
 ---
 
-[![img](/gallery/081125_angel.png)](/gallery/081125_angel.png)
+[![img](/web/gallery/081125_angel.png)](/web/gallery/081125_angel.png)
 ## Angel statue (November 8, 2025)
 
 Light and shadow study within ~8 hours.
@@ -67,7 +67,7 @@ _Reference: Angel with the Cross by Bernini._
 
 ---
 
-[![img](/gallery/011125_david.png)](/gallery/011125_david.png)
+[![img](/web/gallery/011125_david.png)](/web/gallery/011125_david.png)
 ## David statue (November 1, 2025)
 
 Light and shadow study within ~6 hours.
@@ -77,7 +77,7 @@ _Reference: The statue of David._
 
 ---
 
-[![img](/gallery/030225_crow_and_owl.png)](/gallery/030225_crow_and_owl.png)
+[![img](/web/gallery/030225_crow_and_owl.png)](/web/gallery/030225_crow_and_owl.png)
 ## Crow and Owl (February 3, 2025)
 
 Playing around with Krita, getting the brushes into hand.

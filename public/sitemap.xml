@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://localhost:1313/web/blog/</loc>
     <lastmod>2026-06-22T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/web_demos/fractal_demo/fractal_demo/</loc>
+    <loc>http://localhost:1313/web/web_demos/fractal_demo/fractal_demo/</loc>
     <lastmod>2026-06-22T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/hello_blog/</loc>
+    <loc>http://localhost:1313/web/blog/hello_blog/</loc>
     <lastmod>2026-06-22T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/web/</loc>
     <lastmod>2026-06-22T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/web_demos/</loc>
+    <loc>http://localhost:1313/web/web_demos/</loc>
     <lastmod>2026-06-22T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/web/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/gallery/</loc>
+    <loc>http://localhost:1313/web/gallery/</loc>
   </url><url>
-    <loc>http://localhost:1313/gallery/gallery/</loc>
+    <loc>http://localhost:1313/web/gallery/gallery/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/web/tags/</loc>
   </url>
 </urlset>
