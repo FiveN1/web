@@ -1,0 +1,49 @@
+
+h1, h2, h3, h4 {
+    font-weight:lighter;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+hr {
+    border: 0;
+    border-top: 1px dashed rgb(103, 104, 107);
+}
+
+a {
+    font-family: "Libre Baskerville", serif;
+    text-decoration: none;
+    color: rgb(175, 75, 100);
+}
+
+/* HIGHLIGHT */
+
+@property --highlight-color-primary {
+  syntax: "<color>";
+  inherits: false;
+  initial-value: rgb(175, 75, 100); /*rgb(151, 47, 108);*/
+}
+
+@property --highlight-color-secondary {
+  syntax: "<color>";
+  inherits: false;
+  initial-value: rgb(0, 0, 0); 
+}
+
+::selection {
+  background: var(--highlight-color-primary);
+  color: var(--highlight-color-secondary);
+}
+::-moz-selection {
+  background: var(--highlight-color-primary);
+  color: var(--highlight-color-secondary);
+}
+::-webkit-selection {
+  background: var(--highlight-color-primary);
+  color: var(--highlight-color-secondary);
+}
+
+mark {
+    background: var(--highlight-color-primary);
+    color: var(--highlight-color-secondary);
+}

@@ -1,0 +1,21 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'tomasverheyen'
+
+[menu]
+  [[menu.main]]
+    identifier = "blogs"
+    name = "Blogs"
+    url = "/blog"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "web_demos"
+    name = "WebDemos"
+    url = "/web_demos"
+    weight = 20
+  [[menu.main]]
+    identifier = "gallery"
+    name = "Gallery"
+    url = "/gallery"
+    weight = 30

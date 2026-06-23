@@ -1,0 +1,112 @@
+{{ partial "header.html" . }}
+
+<div class="page" id="page">
+    <div id="page_content" class="page_content">
+        <div id="columns" class="columns">
+                <div id="about" class="column">
+                <h1>Tomas Verheyen</h1>
+                <hr>
+                <p>Welcome to my page!</p>
+                <h2>About</h2>
+                <hr>
+                <p>
+                    Hi! My name is Tomas Verheyen, 
+                    I'm a student at the Technical University of Liberec in Czech republic.<br>
+                    <br>
+                    I do programming and art. Recently I've been really interested in physics simulations, signed distance fields and their use and
+                    shape morphing metamaterials. Knowledge of programming enables me to explore all of these interesting fields!<br>
+                    <br>
+                </p>
+                </div>
+                <div id="image" class="column">
+                    
+                <img src="img/sunflowers1_lowerres.png" alt="icon.png" class="page_image">
+                <p1>Here is an image for viewing pleasure.</p1>
+                </div>
+
+                <div id="blog" class="column">
+                <h2>Blogs</h2>
+                <hr>
+
+                <p>
+                    Writings about things that I find useful or interesting. 
+                    Will feature some technical stuff and how they work.
+                </p>
+                <ul>
+                    <li>
+                        <a href="/blog">Blogs</a>
+                    </li>
+                </ul>
+                </div>
+
+                <div id="gallery" class="column">
+                <h2>Gallery</h2>
+                <hr>
+                <p>
+                    Art gallery of paintings/drawings I've done.
+                    Currently features my newest digital art using Krita.
+                </p>
+                <ul>
+                    <li><a href="./gallery/gallery">Gallery</a></li>
+                </ul>
+                </div>
+
+                <div id="projects" class="column">
+                <h2>Projects</h2>
+                <hr>
+                <p>Latest projects.</p>
+                <ul>
+                    <li><a href="https://github.com/FiveN1/3D-Fracral-Demo" target="_blank">
+                        3D Fracral Viewer
+                    </a></li>
+                    <li><a href="https://github.com/FiveN1/nymphaea" target="_blank">
+                        Nymphaea Game Library
+                    </a></li>
+                    <li><a href="https://github.com/FiveN1/Console-Wolfenstein-Style-Raycaster" target="_blank">
+                        ASCII Raycaster
+                    </a></li>
+                </ul>
+                </div>
+
+                <div id="other_websites" class="column">
+                <h2>Other websites</h2>
+                <hr>
+                <p>Also check out these cool websites!</p>
+                <ul>
+                    <li>
+                        <div id="web_ring" style="display: flex; align-items: center; gap: 8px;">
+                        <a href="https://ring.liampas.ca/left">[&larr;]</a>
+                        <img src="img/sylvan-webring.gif" alt="demo_icon.png" style="width: 48px; height: 48px;">
+                        <a href="https://ring.liampas.ca/right">[&rarr;]</a>
+                        <a href="https://ring.liampas.ca/random">[??]</a>
+                        <a href="https://ring.liampas.ca/">WebRing</a>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="https://jakubtomsu.github.io/">Jakub's Tech Blog</a>
+                    </li>
+                    <li>
+                        <a href="https://floooh.github.io/">The Brain Dump</a>
+                    </li>
+                    <li>
+                        <a href="https://jbaker.graphics/index.html">Jon Baker, Graphics Programming</a>
+                    </li>
+
+                </ul>
+                </div>
+            </div>
+
+            <h2 id="web_demos">Web demos!</h2>
+            <hr>
+            {{ range where .Site.RegularPages "Type" "web_demo"}}
+            <a href="{{ .RelPermalink }}" target="_blank">
+                <img src="/img/{{ .Params.icon_name }}" alt="icon.png" class="webd_icon"> 
+            </a>
+            {{ end }}
+
+            {{ partial "page_footer.html" . }}
+        
+    </div>
+</div>
+
+{{ partial "footer.html" . }}

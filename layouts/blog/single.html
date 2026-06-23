@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+
+<div class="page" id="page">
+    <div id="page_content" class="page_content">
+        <h1>{{ .Title }}</h1> 
+        <a href="/">[Home]</a>
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+            {{ .Date.Format "January 2, 2006" }}
+        </time>
+        <hr>
+        {{ .Content }}
+        {{ partial "page_footer.html" . }}
+    </div>
+</div>
+{{ partial "footer.html" . }}
