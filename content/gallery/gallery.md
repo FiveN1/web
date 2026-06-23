@@ -16,7 +16,7 @@ If you wish to use any of these images in other media, posters or games, please 
 ## Sunflowers (June 16, 2026)
 This practice was done in an afternoon, withnin ~4 hours.
 
-First time using non-default Krita brushes, and wow what a diffrence can brushes make when you know where tu use them. I've always used the round waterbrush, it was great for smooth surfaces, like scupltures, but I've quite struggeled to paint textured materials since the round brush is not the right tool for that job.
+First time using non-default Krita brushes, and wow what a diffrence can brushes make when you know where to use them. I've always used the round waterbrush, it was great for smooth surfaces, like scupltures, but I've quite struggeled to paint textured materials since the round brush is not the right tool for that job.
 
 ---
 
@@ -27,6 +27,14 @@ Had to rely on my imagination on this piece, which is not something that I usual
 
 In the end it was quite fun, since I had to really think how the light interacts with this enviroment, and in general 'think' about this world that I'm drawing.
 
+
+---
+
+[![img](/web/gallery/2026_krajina_practice.png)](/web/gallery/2026_krajina_practice.png)
+## Scenery practice (June 4, 2026)
+
+Color practice.
+
 ---
 
 
@@ -36,14 +44,6 @@ At first this was just a recreational light and shadow practice, but later turne
 Done within ~10 hours over a couple of days.
 
 I must say that i got a bit inspiered by Christopher Zetterstrand's paintings with the pixelated landscape in the background, which i think nicely adds some color to this piece.
-
-
----
-
-[![img](/web/gallery/2026_krajina_practice.png)](/web/gallery/2026_krajina_practice.png)
-## Scenery practice (June 4, 2026)
-
-Color practice.
 
 ---
 
